@@ -1,5 +1,5 @@
 # TicTacToe-Minimax
-Python implemnttion of the Minimax algorithm that plays Tic Tac Toe
+Python implementation of the Minimax algorithm that plays Tic Tac Toe
 
 ## Usage
 ```
